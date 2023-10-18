@@ -31,7 +31,7 @@ A todo list for making bitvm great
 
 - [ ] Make youtube videos documenting how to write apps for bitvm
 - [ ] Make text tutorials documenting how to write apps for bitvm
-- [ ] Help me improve the visual look and feel of [this showcase](https://supertestnet.github.io/tapleaf-circuits/) of bitvm apps
+- [ ] Help me improve the visual look and feel of [this showcase](https://supertestnet.github.io/tapleaf-circuits/) of bitvm apps (fork it [here](https://github.com/supertestnet/tapleaf-circuits/), make it better, do a PR)
 
 # Meta
 
