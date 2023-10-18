@@ -50,7 +50,7 @@ A todo list for making bitvm great
 
 - [ ] Make youtube videos documenting how to write apps for bitvm
 - [ ] Make text tutorials documenting how to write apps for bitvm
-- [ ] Make an FAQ page with less tech-talk, more of a high level overview of what we're doing (this would help devs AND everyone else too)
+- [ ] Contribute to [the FAQ](https://github.com/PraiseTheMithra/BitVm-FAQ) -- it should have less tech-talk and focus more on a high level overview of what we're doing (this will help devs AND everyone else too)
 - [ ] Help me improve the visual look and feel of [this showcase](https://supertestnet.github.io/tapleaf-circuits/) of bitvm apps (fork it [here](https://github.com/supertestnet/tapleaf-circuits/), make it better, do a PR)
 
 # Money
