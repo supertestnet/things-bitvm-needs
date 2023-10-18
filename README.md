@@ -27,6 +27,25 @@ A todo list for making bitvm great
 - [ ] Contribute to [the chess app](https://github.com/mcbagz/LogicGates/tree/main)
 - [ ] Contribute to [the python toolchain](https://twitter.com/rot13maxi/status/1713731080912527404)
 
+# Functions
+
+- [ ] Make a 32 bit multiplier in bitcoin script
+- [ ] Make a bunch of functions that help with making a sha256 implementation, such as:
+- [ ] Make a function for doing 6 "right rotations" on a 32 bit string (e.g. if the string was 00000000000000000000000111110000, a right-rotation by 6 digits would turn it into 11000000000000000000000000000111 -- it shifts everything over by 6 and moves stuff that "falls off the end" over the start)
+- [ ] Make a function for doing 2 right rotations
+- [ ] Make a function for doing 7 right rotations
+- [ ] Make a function for doing 10 right rotations
+- [ ] Make a function for doing 11 right rotations
+- [ ] Make a function for doing 13 right rotations
+- [ ] Make a function for doing 17 right rotations
+- [ ] Make a function for doing 18 right rotations
+- [ ] Make a function for doing 19 right rotations
+- [ ] Make a function for doing 22 right rotations
+- [ ] Make a function for doing 25 right rotations
+- [ ] Make a function for doing 3 "right shifts" on a 32 bit string (e.g. if the string was 00000000000000000000000001111100, a right-shift by 3 digits would turn it into 00000000000000000000000000001111 -- it shifts everything over by 3 and discards anything that "falls off the end")
+- [ ] Make a function for doing 10 right shifts
+- [ ] Make a sha256 function that "pads" inputs to a multiple of 512 bits
+
 # DevEd
 
 - [ ] Make youtube videos documenting how to write apps for bitvm
