@@ -31,7 +31,7 @@ A todo list for making bitvm great
 
 - [ ] Make a 32 bit multiplier in bitcoin script
 - [ ] Make a bunch of functions that help with making a sha256 implementation, such as:
-- [ ] Make a function for doing 6 "right rotations" on a 32 bit string (e.g. if the string was 00000000000000000000000111110000, a right-rotation by 6 digits would turn it into 11000000000000000000000000000111 -- it shifts everything over by 6 and moves stuff that "falls off the end" over the start)
+- [ ] Make a function for doing 6 "right rotations" on a 32 bit string (e.g. if the string was 00000000000000000000000111110000, a right-rotation by 6 digits would turn it into 11000000000000000000000000000111 -- it shifts everything over by 6 and moves stuff that "falls off the end" over to the start)
 - [ ] Make a function for doing 2 right rotations
 - [ ] Make a function for doing 7 right rotations
 - [ ] Make a function for doing 10 right rotations
