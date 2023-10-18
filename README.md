@@ -22,6 +22,7 @@ A todo list for making bitvm great
 - [ ] One possible toolchain: write app in python, export for bitvm using "circuit" and "bfcl" libraries, test/debug/deploy
 - [ ] Another possible toolchain: write app in C, export for bitvm using HyCC, test/debug/deploy
 - [ ] Make a high level programming language that compiles programs down to the "bristol formatted" logical circuits that bitvm currently uses
+- [ ] Make an IDE to help developers design apps by "hooking together" logic circuits that already work in bitvm
 - [ ] Contribute to [the chess app](https://github.com/mcbagz/LogicGates/tree/main)
 - [ ] Contribute to [the python toolchain](https://twitter.com/rot13maxi/status/1713731080912527404)
 
