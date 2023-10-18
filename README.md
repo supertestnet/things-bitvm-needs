@@ -33,6 +33,10 @@ A todo list for making bitvm great
 - [ ] Make text tutorials documenting how to write apps for bitvm
 - [ ] Help me improve the visual look and feel of [this showcase](https://supertestnet.github.io/tapleaf-circuits/) of bitvm apps (fork it [here](https://github.com/supertestnet/tapleaf-circuits/), make it better, do a PR)
 
+# Money
+
+- [ ] Devs can be either *attracted* to a project or *hired* for a project. If you can't code yourself, consider giving money so Robin can *hire* devs to work on bitvm: bc1qf5g6z0py2t3t49gupeqrlewga0qz2etalu4xf9
+
 # Meta
 
 - [ ] Contribute to this todo list with other ideas for making bitvm great (click the Fork button above and do a PR with your changes)
