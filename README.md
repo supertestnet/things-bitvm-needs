@@ -3,7 +3,7 @@ A todo list for making bitvm great
 
 # Implementations
 
-- [ ] Create github repos for more implementations of the bitvm
+- [ ] Create github repos for more implementations of bitvm
 - [ ] E.g. one in rust
 - [ ] E.g. one in python
 - [ ] E.g. one in typescript
