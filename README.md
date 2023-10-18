@@ -28,8 +28,8 @@ A todo list for making bitvm great
 
 # DevEd
 
-- [ ] Make youtube videos documenting how you write apps for bitvm
-- [ ] Make text tutorials documenting how you write apps for bitvm
+- [ ] Make youtube videos documenting how to write apps for bitvm
+- [ ] Make text tutorials documenting how to write apps for bitvm
 
 # Meta
 
