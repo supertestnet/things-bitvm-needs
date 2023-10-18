@@ -35,7 +35,7 @@ A todo list for making bitvm great
 
 # Money
 
-- [ ] Devs can be either *attracted* to a project or *hired* for a project. If you can't code yourself, consider giving money so Robin can *hire* devs to work on bitvm: bc1qf5g6z0py2t3t49gupeqrlewga0qz2etalu4xf9
+- [ ] Devs can be either *attracted* to a project or *hired* for a project, or both. If you can't contribute via code, consider giving money so Robin can *hire* devs to work on bitvm: bc1qf5g6z0py2t3t49gupeqrlewga0qz2etalu4xf9
 
 # Meta
 
