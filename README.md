@@ -3,7 +3,7 @@ A todo list for making bitvm great
 
 # Implementations
 
-- [ ] Create github repos for more implementations of the BitVM
+- [ ] Create github repos for more implementations of the bitvm
 - [ ] E.g. one in rust
 - [ ] E.g. one in python
 - [ ] E.g. one in typescript
@@ -25,5 +25,9 @@ A todo list for making bitvm great
 
 # DevEd
 
-- [ ] Make youtube videos documenting how you write apps for BitVM
-- [ ] Make text tutorials documenting how you write apps for BitVM
+- [ ] Make youtube videos documenting how you write apps for bitvm
+- [ ] Make text tutorials documenting how you write apps for bitvm
+
+# Meta
+
+- [ ] Contribute to this todo list with other ideas for making bitvm great (click the Fork button above and do a PR with your changes)
